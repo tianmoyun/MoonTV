@@ -145,9 +145,13 @@
       "api": "https://cj.huohua.live/api.php/provide/vod",
       "name": "火花资源"
     },
-        "dbzy": {
+        "xbzy": {
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "杏吧资源"
+    },
+     "kbzy": {
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "name": "快播资源"
     },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
